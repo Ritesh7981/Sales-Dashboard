@@ -1,0 +1,41 @@
+date,sales_rep,region,category,product,quantity,unit_price,total_price,customer_type,customer_name
+2/2/2024,James Wilson,Europe,Hardware,Workstation Elite,4,899.99,3599.96,B2B,Design Studio Pro
+2/5/2024,Sarah Johnson,North America,Software,Creative Suite Pro,10,199.99,1999.90,B2B,Marketing Solutions Inc
+2/8/2024,Michael Chen,Asia,Hardware,UltraBook Slim,5,1299.99,6499.95,B2B,Tech Innovations Ltd
+2/10/2024,Emily Davis,Europe,Accessories,Premium Headset,15,129.99,1949.85,B2C,Various Consumers
+2/12/2024,Robert Kim,North America,Hardware,Gaming Desktop Pro,3,1599.99,4799.97,B2B,Game Development Studios
+2/15/2024,Lisa Wang,Asia,Software,Security Suite Enterprise,20,89.99,1799.80,B2B,Secure Systems Corp
+2/18/2024,David Miller,Europe,Hardware,Workstation Elite,6,899.99,5399.94,B2B,Architectural Designs Inc
+2/20/2024,Jennifer Lee,North America,Accessories,Wireless Keyboard,25,59.99,1499.75,B2C,Various Consumers
+2/22/2024,Thomas Wilson,Asia,Software,Database Manager Pro,8,299.99,2399.92,B2B,Data Solutions Ltd
+2/25/2024,Maria Garcia,Europe,Hardware,UltraBook Slim,4,1299.99,5199.96,B2B,Consulting Group International
+3/1/2024,James Wilson,North America,Software,Creative Suite Pro,12,199.99,2399.88,B2B,Advertising Agency Partners
+3/3/2024,Sarah Johnson,Asia,Hardware,Gaming Desktop Pro,2,1599.99,3199.98,B2B,E-Sports Organization
+3/5/2024,Michael Chen,Europe,Accessories,Premium Headset,18,129.99,2339.82,B2C,Various Consumers
+3/8/2024,Emily Davis,North America,Hardware,Workstation Elite,5,899.99,4499.95,B2B,Engineering Solutions Corp
+3/10/2024,Robert Kim,Asia,Software,Security Suite Enterprise,15,89.99,1349.85,B2B,Financial Services Group
+3/12/2024,Lisa Wang,Europe,Hardware,UltraBook Slim,7,1299.99,9099.93,B2B,Research Institute
+3/15/2024,David Miller,North America,Accessories,Wireless Keyboard,30,59.99,1799.70,B2C,Various Consumers
+3/18/2024,Jennifer Lee,Asia,Software,Database Manager Pro,10,299.99,2999.90,B2B,Healthcare Systems Inc
+3/20/2024,Thomas Wilson,Europe,Hardware,Gaming Desktop Pro,4,1599.99,6399.96,B2B,Digital Media Productions
+3/22/2024,Maria Garcia,North America,Software,Creative Suite Pro,15,199.99,2999.85,B2B,Creative Design Studios
+3/25/2024,James Wilson,Asia,Accessories,Premium Headset,20,129.99,2599.80,B2C,Various Consumers
+3/28/2024,Sarah Johnson,Europe,Hardware,Workstation Elite,8,899.99,7199.92,B2B,Manufacturing Solutions Ltd
+4/1/2024,Michael Chen,North America,Software,Security Suite Enterprise,25,89.99,2249.75,B2B,Government Agency
+4/3/2024,Emily Davis,Asia,Hardware,UltraBook Slim,6,1299.99,7799.94,B2B,Educational Institution
+4/5/2024,Robert Kim,Europe,Accessories,Wireless Keyboard,35,59.99,2099.65,B2C,Various Consumers
+4/8/2024,Lisa Wang,North America,Hardware,Gaming Desktop Pro,5,1599.99,7999.95,B2B,Entertainment Studios
+4/10/2024,David Miller,Asia,Software,Database Manager Pro,12,299.99,3599.88,B2B,Logistics Corporation
+4/12/2024,Jennifer Lee,Europe,Hardware,Workstation Elite,7,899.99,6299.93,B2B,Architectural Firm
+4/15/2024,Thomas Wilson,North America,Accessories,Premium Headset,22,129.99,2859.78,B2C,Various Consumers
+4/18/2024,Maria Garcia,Asia,Software,Creative Suite Pro,18,199.99,3599.82,B2B,Marketing Agency
+4/20/2024,James Wilson,Europe,Hardware,UltraBook Slim,9,1299.99,11699.91,B2B,Legal Services Group
+4/22/2024,Sarah Johnson,North America,Software,Security Suite Enterprise,30,89.99,2699.70,B2B,Insurance Company
+4/25/2024,Michael Chen,Asia,Accessories,Wireless Keyboard,40,59.99,2399.60,B2C,Various Consumers
+4/28/2024,Emily Davis,Europe,Hardware,Gaming Desktop Pro,6,1599.99,9599.94,B2B,Game Development Studio
+5/1/2024,Robert Kim,North America,Software,Database Manager Pro,15,299.99,4499.85,B2B,Financial Analytics Corp
+5/3/2024,Lisa Wang,Asia,Hardware,Workstation Elite,10,899.99,8999.90,B2B,Engineering Consultancy
+5/5/2024,David Miller,Europe,Accessories,Premium Headset,25,129.99,3249.75,B2C,Various Consumers
+5/8/2024,Jennifer Lee,North America,Software,Creative Suite Pro,20,199.99,3999.80,B2B,Digital Marketing Agency
+5/10/2024,Thomas Wilson,Asia,Hardware,UltraBook Slim,8,1299.99,10399.92,B2B,Technology Solutions Ltd
+5/12/2024,Maria Garcia,Europe,Software,Security Suite Enterprise,35,89.99,3149.65,B2B,Cybersecurity Firm
