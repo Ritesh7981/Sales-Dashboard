@@ -157,7 +157,7 @@ export default function ProductDetailPage() {
         title="Monthly Sales" 
         isLoading={isLoading} 
         error={error}
-        className="mb-6 h-80"
+        className="mb-6 h-full"
       >
         {monthlySales.length > 0 ? (
           <ResponsiveContainer width="100%" height="100%">
