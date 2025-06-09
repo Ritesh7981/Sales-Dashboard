@@ -14,8 +14,6 @@ export default function Card({
   children, 
   className = '', 
   actions,
-  isLoading = false,
-  error = null
 }: CardProps) {
   return (
     <div className={`bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 ${className}`}>
@@ -23,6 +21,7 @@ export default function Card({
         <h2 className="text-lg font-semibold text-gray-800">{title}</h2>
         {actions && <div className="flex space-x-2">{actions}</div>}
       </div>
+
      <div className='h-full'>
       {children}
      </div>
